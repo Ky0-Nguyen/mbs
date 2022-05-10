@@ -1,0 +1,6 @@
+module Pods_mbs {
+  umbrella header "Pods-mbs-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "coingrig-wallet-generator",
+  "version": "0.1.7",
+  "summary": "Coingrig high performance Wallet Generator",
+  "homepage": "https://github.com/coingrig/coingrig-wallet-generator#readme",
+  "license": "MIT",
+  "authors": "Coingrig <contact@coingrig.com> (https://github.com/coingrig)",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/coingrig/coingrig-wallet-generator.git",
+    "tag": "0.1.7"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "ios": {
+    "vendored_frameworks": "ios/CGWallet.xcframework"
+  },
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

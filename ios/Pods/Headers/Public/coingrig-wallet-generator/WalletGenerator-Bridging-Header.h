@@ -1,0 +1,1 @@
+../../../../../node_modules/@coingrig/wallet-generator/ios/WalletGenerator-Bridging-Header.h

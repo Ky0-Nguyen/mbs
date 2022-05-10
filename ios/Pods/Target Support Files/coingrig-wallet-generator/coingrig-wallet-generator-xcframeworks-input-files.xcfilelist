@@ -1,0 +1,2 @@
+${PODS_ROOT}/Target Support Files/coingrig-wallet-generator/coingrig-wallet-generator-xcframeworks.sh
+${PODS_ROOT}/../../node_modules/@coingrig/wallet-generator/ios/CGWallet.xcframework

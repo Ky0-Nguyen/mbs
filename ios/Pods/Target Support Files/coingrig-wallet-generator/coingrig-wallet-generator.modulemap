@@ -1,0 +1,6 @@
+module coingrig_wallet_generator {
+  umbrella header "coingrig-wallet-generator-umbrella.h"
+
+  export *
+  module * { export * }
+}

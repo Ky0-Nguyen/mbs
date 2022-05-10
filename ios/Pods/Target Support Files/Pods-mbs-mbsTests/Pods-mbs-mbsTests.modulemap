@@ -1,0 +1,6 @@
+module Pods_mbs_mbsTests {
+  umbrella header "Pods-mbs-mbsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
